@@ -1,4 +1,4 @@
-# Przykład range() w Pythonie
+# Przykład na range() w Pythonie
 # Uzyskaj liczby z zakresu od 0 do 5
 
 print('Liczby od 0 do 5 to: ')
