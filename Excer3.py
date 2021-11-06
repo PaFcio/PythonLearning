@@ -1,4 +1,4 @@
-# Biorąc pod uwagę 2 ciągi, s1 i s2 zwróć nowy ciąg złożony z pierwszego,
+# Biorąc pod uwagę 2 ciągi: s1 i s2 zwróć nowy ciąg złożony z pierwszego,
 # środkowego i ostatniego znaku każdego ciągu wejściowego
 
 s1 = "America"
