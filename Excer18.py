@@ -1,4 +1,4 @@
-# Liczby pierwsze - przykład na break
+# Liczby pierwsze - przykład na break w pętli for
 
 for n in range(2, 100):
     for x in range(2, n):
