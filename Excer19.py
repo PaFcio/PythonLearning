@@ -1,4 +1,4 @@
-# Przykład na continue
+# Przykład na continue w pętli for
 
 for num in range(1, 20):
     if not num % 2:  # num % 2 == 0
