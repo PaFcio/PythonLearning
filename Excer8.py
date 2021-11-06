@@ -1,4 +1,3 @@
-# Ćwiczenie instrukcji if
 # Przypisz 8 do zmiennej x i 15 do zmiennej y
 # Utwórz 2 instrukcje warunkowe
 # Niech pierwsza wypisze: „Co najmniej jeden z warunków jest spełniony”, jeśli x jest większe niż 3 lub y jest parzyste
