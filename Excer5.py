@@ -1,6 +1,6 @@
 # Utwórz listę zawierającą imiona wszystkich kursantów
 # Następnie ją posortuj alfabetycznie, oraz
-# Sprawdź ile elementów ona zawiera
+# Sprawdź ile elementów ona zawiera (i wyprintuj obv)
 
 kursanci = ['Anastazja',
             'Tomasz',
