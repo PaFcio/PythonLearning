@@ -28,3 +28,24 @@ print(napis[0])
 
 # HERE IMPORTANT, HAS NOT ONLY START & STOP BUT ALSO STEP!!!
 print(napis[0::2])
+
+napis = "Ala ma koty"
+print(napis)
+
+zmienna = 127
+print(zmienna)
+print(type(zmienna))
+
+zmienna = '127'
+print(zmienna)
+print(type(zmienna))
+
+zmienna = '127'*127
+print(zmienna)
+
+napis = 'Ala ma kota a kot ma psa'
+l_calk = 2
+# print(napis + l_calk) tak nie można bo jest Str * Int
+
+# Konwersja Int -> Str
+print(napis + ' ' + str(l_calk))
