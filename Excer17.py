@@ -1,4 +1,4 @@
-# KOlejny przykład na pętlę while
+# Kolejny przykład na pętlę while
 
 lines = list()
 print('Wprowadź tekst po linijce.')
