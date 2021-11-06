@@ -8,6 +8,7 @@ wyniki = list()
 
 for cur_l in range(l1, l2 + 1):
     if cur_l % 7 == 0 and cur_l % 5 == 0:
-        wyniki.append(cur_l)
+        wyniki.append(str(cur_l))
 
-print(wyniki)
+# Wypisanie jako CSV!!! #so_sick
+print(','.join(wyniki))
