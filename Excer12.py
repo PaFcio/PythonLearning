@@ -1,4 +1,4 @@
-# Przykład na pętlę for i indexowanie
+# Przykład na pętlę for oraz indexowanie
 
 string = 'Python'
 
