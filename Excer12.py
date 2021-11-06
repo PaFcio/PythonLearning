@@ -1,3 +1,5 @@
+# Przykład na pętlę for i indexowanie
+
 string = 'Python'
 
 for litera in string:
