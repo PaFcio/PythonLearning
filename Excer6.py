@@ -1,6 +1,5 @@
 # Napisz program, który:
-# Będzie prosił użytkownika o podanie dwóch liczb, i
-# Wypisze:
+# Będzie prosił użytkownika o podanie dwóch liczb, i wypisze:
 # Wynik ich dzielenia,
 # Resztę z dzielenia, oraz
 # Wynik dzielenia całkowitego
