@@ -1,4 +1,4 @@
-# Znajdź liczby, które są podzielne przez 7 i są wielokrotnością 5 w zakresie
+# Znajdź liczby, które są podzielne przez 7 i są wielokrotnością 5 w  podanym zakresie
 # Napisz program w Pythonie,
 # aby znaleźć liczby podzielne przez 7 i będące wielokrotnością 5 między 1500 a 2700 (obie uwzględnione)
 
