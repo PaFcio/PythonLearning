@@ -2,7 +2,7 @@
 
 def max_in_list(my_list):
     max_val = my_list[0]
-    for el in my_list:
+    for el in my_list[1:]:
         if el > max_val:
             max_val = el
     return max_val
