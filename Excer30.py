@@ -1,4 +1,5 @@
-# Napisz funkcję w Pythonie, który zlicza ciągi znaków, w których długość ciągu wynosi 2 lub więcej, a pierwszy i ostatni znak są takie same z podanej listy ciągów.
+# Napisz funkcję w Pythonie, który zlicza ciągi znaków, w których długość ciągu wynosi 2 lub więcej,
+# a pierwszy i ostatni znak są takie same z podanej listy ciągów.
 # Przykładowa lista : ['abc', 'xyz', 'aba', '1221']
 # Oczekiwany wynik: 2
 
@@ -14,7 +15,7 @@ in_list = []
 val = input('Podaj element do listy: ')
 
 while val != '':
-    in_list.append((val))
+    in_list.append(val)
     val = input('Podaj element do listy: ')
 
 print(count_start_end_string(in_list))
