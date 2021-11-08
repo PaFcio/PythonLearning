@@ -16,5 +16,11 @@ def ret_mangled_string(my_str):
     return ret_str
 
 
+def ret_mangled_string2(my_str):
+    if len(my_str) >= 2:
+        return ''
+    return my_str[:2] + my_str[-2:]
+
+
 in_str = str(input('Podaj ciąg wejściowy: '))
-print(ret_mangled_string(in_str))
+print(ret_mangled_string2(in_str))
