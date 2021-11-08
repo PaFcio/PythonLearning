@@ -8,8 +8,8 @@ def sum_list(my_list):
 
 
 in_list = []
-
 val = input('Podaj element do listy: ')
+
 while val != '':
     in_list.append(int(val))
     val = input('Podaj element do listy: ')
