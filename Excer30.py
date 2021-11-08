@@ -5,7 +5,7 @@
 def count_start_end_string(my_list):
     count = 0
     for el in my_list:
-        if el[0] == el[-1] and len(el) > 2:
+        if el[0] == el[-1] and len(el) >= 2:
             count += 1
     return count
 
