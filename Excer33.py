@@ -9,5 +9,5 @@ def silnia(n):
     else:
         return 1
 
-
-print(silnia(2))
+in_n = int(input('Podaj zakres silni: '))
+print(silnia(in_n))
