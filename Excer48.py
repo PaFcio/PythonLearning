@@ -6,6 +6,8 @@
 # Liczbę wierszy.
 # Na koniec zamknij ten plik.
 # Jeżeli dany plik nie jest zamknięty (podpowiedź: f.closed), to go zamknij.
+import io
+
 
 def opener(f):
     try:
