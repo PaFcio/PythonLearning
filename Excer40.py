@@ -13,7 +13,7 @@ def dodawanko():
         l1 = int(l1)
         l2 = int(l2)
     except:
-        print("Jedna z liczb nie została podana, podaj obie liczby")
+        print("Wprowadź dane liczbowe")
         dodawanko()
     else:
         print("Wynik dodawania to: " + str(l1 + l2))
