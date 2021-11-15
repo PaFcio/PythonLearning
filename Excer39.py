@@ -1,3 +1,5 @@
+# x wywołuje błąd
+
 x = 1.1
 
 if not type(x) is int:
