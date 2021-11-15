@@ -15,4 +15,3 @@ try:
     print(my_list[4])
 except IndexError as x:
     print("Jesteś poza zakresem listy! Błąd: " + str(x))
-
