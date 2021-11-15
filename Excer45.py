@@ -13,5 +13,5 @@ try:
 except FileNotFoundError:
     print("File not found! Filename: " + arg)
 else:
-    print("Plik " + arg + " ma " + str(len(f.readlines())) + " wierszy")
+    print("Plik {} ma {} wierszy".format(arg, len(f.readlines())))
     f.close()
